@@ -1,3 +1,3 @@
 # web
-This is project
-Author Vibhuti Singh
+This is my project
+Author:- Vibhuti Singh
